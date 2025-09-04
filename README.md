@@ -42,6 +42,8 @@ Ajuste as variáveis de conexão com MySQL:
 
 # A .env.example ja esta pronta para ser copiada
 
+
+
 #Copia do meu projeto
 DB_CONNECTION=mysql
 DB_HOST=db
@@ -74,3 +76,15 @@ Em Desenvolvimento
 Finalizados
 
 Cada chamado pode ser criado, editado, movido entre colunas e deletado.
+
+Para logar use um dos usuarios de teste:
+    [
+        'username'   => 'teste1@teste.com', 
+        'password'   =>  bcrypt('123123'),
+        'created_at' =>  date('Y-m-d H:i:s')
+    ],
+    [
+        'username'   => 'teste2@teste.com',
+        'password'   =>  bcrypt('123123'),
+        'created_at' =>  date('Y-m-d H:i:s')
+    ]

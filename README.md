@@ -9,7 +9,7 @@ Laravel 10
 Docker
 MySQL
 Composer
-Node.js / NPM
+
 
 Pré-requisitos
 

@@ -54,6 +54,7 @@ DB_PASSWORD=secret
 
 Rode as migrations com seed:
 
+php artisan migrate  
 php artisan db:seed --class=UsersTableSeeder
 
 Isso criará as tabelas e já populará o banco com chamados de exemplo.

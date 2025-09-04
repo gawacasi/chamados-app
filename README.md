@@ -22,7 +22,7 @@ Como rodar o projeto
 
 Build dos containers:
 
-docker-compose up -d --build
+docker compose up -d --build
 
 Acesse o container do Laravel:
 

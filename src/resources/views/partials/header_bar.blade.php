@@ -1,4 +1,7 @@
 <div class="col">
+    <img src="{{ asset('assets/images/zebra.png') }}" style="max-width: 70px" alt="Chamados logo">
+</div>
+<div class="col">
     <div class="d-flex justify-content-end align-items-center">
         <span class="me-3"><i
                 class="fa-solid fa-user-circle fa-lg text-secondary me-3"></i>{{ $user['username'] }}</span>

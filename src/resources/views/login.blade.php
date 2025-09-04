@@ -20,7 +20,7 @@
                     @endif
 
                         <div class="text-center p-3">
-                            <img src="assets/images/logo.png" alt="Chamados-Logo">
+                            <img src="assets/images/zebra.png" style="max-height: 80px" alt="Chamados-Logo">
                         </div>
 
                         <div class="row justify-content-center">

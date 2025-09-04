@@ -31,7 +31,6 @@ docker exec -it laravel-app bash
 Instale as dependências:
 
 composer install
-npm install && npm run build
 
 Configure o arquivo .env:
 

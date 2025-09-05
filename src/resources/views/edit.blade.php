@@ -7,7 +7,7 @@
                     @include('partials.header_bar')
                     <div class="row">
                         <div class="col">
-                            <p class="display-6 mb-0">Novo Chamado</p>
+                            <p class="display-6 mb-0">Editar Chamado</p>
                         </div>
                         <div class="col text-end">
                             <a href="{{ route('home') }}" class="btn btn-outline-danger">

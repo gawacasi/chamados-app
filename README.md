@@ -55,8 +55,9 @@ DB_USERNAME=laravel
 DB_PASSWORD=secret
 ```
 Altere também:
-
+```
 SESSION_DRIVER=file
+```
 Rode as migrations com seed:
 ```
 php artisan migrate
